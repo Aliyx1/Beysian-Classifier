@@ -1,0 +1,3 @@
+1 good bad bad bad casino
+0 bad good good pizza
+0 bad good tapas
